@@ -1,0 +1,4 @@
+# Nixpacks build optimization for Railway
+[variables]
+    NODE_OPTIONS = "--max-old-space-size=512"
+    NIXPACKS_NODE_VERSION = "20"
